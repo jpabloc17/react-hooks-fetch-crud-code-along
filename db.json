@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "banana",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "tomato",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
